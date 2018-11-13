@@ -1,1 +1,5 @@
 hi hello how are you 
+git add filename
+git status
+git commit -m ""
+git push
